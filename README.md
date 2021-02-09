@@ -8,8 +8,9 @@
 - I'm currently learing **JavaScript** **TypeScript** **React**
 - I'm currently working at my own projects to create my future.
 - 2021 Goals: learn more.
----
-[![raqelcb github stats] (https://github-readme-stats.vercel.app/api?username=raqelcb&show_icons=true&count_private=true)]
-<br/>
-[![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=raqelcb&layout=compact)]
+
+### Languages and Tools
+[![raqelcb's github stats](https://github-readme-stats.raqelcb.vercel.app/api?username=raqelcb&count_private=true)](https://github.com/raqelcb)[![Top Langs](https://github-readme-stats.raqelcb.vercel.app/api/top-langs?username=raqelcb&layout=compact)](https://github.com/raqelcb)
+
+
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
