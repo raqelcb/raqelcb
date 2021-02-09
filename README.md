@@ -1,13 +1,15 @@
 # Hello World! I'm Raquel [raqelcb] 👋
 
-### I'm a Designer and Frontend Developer
+### I'm a Graphoc Designer and Frontend Developer ✍️💻
 
-- I studied Graphic Design at the IED Madrid and later they gave me a scholarship to study a Master in Marketing.
-- In February 2020 I was a candidate for the 42 Madrid School, where during that month I made the piscine.
-- I'm currntly studying **Frontend Development** at Bejob by Grupo Santillana.
-- I'm currently learing **JavaScript** **TypeScript** **React**
-- I'm currently working at my own projects to create my future.
-- 2021 Goals: learn more.
+- 🎓 I studied Graphic Design at the IED Madrid and later they gave me a scholarship to study a Master in Marketing. Then I did an MBA.
+- 🏊‍ In February 2020 I was a candidate for the 42 Madrid School, where during that month I made the piscine.
+-  I'm a Apple Certified Support Professional
+---
+- 📚 I'm currntly studying **Frontend Development** at Bejob by Santillana Group.
+- 🌱 I'm currently learing **HTML5**, **CSS3*, **SaSS, **JavaScript**, **TypeScript**, **React**
+- ⚙️ I'm currently working at my own projects to create my future.
+- 🚀 2021 Goals: learn more.
 
 ### Languages and Tools
 
