@@ -14,8 +14,9 @@
 ### Languages and Tools
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/rcuesta-?privacyEmail=true)](https://www.42madrid.com/en)
+![](https://github-readme-stats.vercel.app/api?username=pruiz-ca&count_private=true&show_icons=true&theme=dark&hide_title=true)
 <!--![Raqelcb's github stats](https://github-readme-stats.vercel.app/api?username=raqelcb&show_icons=true&count_private=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raqelcb&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raqelcb&layout=compact&theme=dark)
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
