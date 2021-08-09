@@ -6,14 +6,14 @@
 - 🏊‍ In February 2020 & Junly 2021 I was a candidate for the **42 Madrid School**, where during that month I made the piscine.
 - 🍏 I'm a **Apple** Certified Support Professional 
 
-- 📚 I'm currently studying **Development** at 42Madrid.
-- 🌱 I'm currently learning **C**
+- 🌱 I'm currently learning **C** at [42Madrid](https://www.42madrid.com/en/)
 - 🧠 I'm interesting in **HTML5**, **CSS3**, **SaSS**, **JavaScript**, **TypeScript**, **React**
 - ⚙️ I'm currently working at my own projects to create my future.
 - 🚀 2021 Goals: learn more.
 ---
 ### Languages and Tools
 
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/rcuesta-?privacyEmail=true)](https://www.42madrid.com/en)
 ![Raqelcb's github stats](https://github-readme-stats.vercel.app/api?username=raqelcb&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raqelcb&layout=compact)
 
