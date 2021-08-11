@@ -3,7 +3,7 @@
 ### I'm a Graphic Designer and Frontend Developer ✍️💻
 
 - 🎓 I studied Graphic Design at the **IED Madrid** and later they gave me a scholarship to study a Master in Marketing. Then I studied an MBA.
-- 🏊‍ In February 2020 & Junly 2021 I was a candidate for the **42 Madrid School**, where during that month I made the piscine.
+- 🏊‍ In February 2020 & July 2021 I was a candidate for the **42 Madrid School**, where during that month I made the piscine.
 - 🍏 I'm a **Apple** Certified Support Professional 
 
 - 🌱 I'm currently learning **C** at [42Madrid](https://www.42madrid.com/en/)
