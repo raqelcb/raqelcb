@@ -1,4 +1,4 @@
-# Hello World! I'm Raquel [raqelcb](http://rcbdesigner.com) 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=raqelcb&label=Profile%20views&color=fa8333&style=flat" alt="raqelcb" /> </p>
+# Hello World! I'm Raquel [raqelcb](http://rcbdesigner.com) 👋 
 
 ### I'm a Graphic Designer and Frontend Developer ✍️💻
 
@@ -33,3 +33,4 @@
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=raqelcb&label=Profile%20views&color=fa8333&style=flat" alt="raqelcb" /> </p>
