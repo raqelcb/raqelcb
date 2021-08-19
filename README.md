@@ -18,7 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=raqelcb&count_private=true&show_icons=true&theme=dark&hide_title=true)
 
 <!--![Raqelcb's github stats](https://github-readme-stats.vercel.app/api?username=raqelcb&show_icons=true&count_private=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raqelcb&layout=compact&exclude_repo=ft_server&langs_count=9&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raqelcb&layout=compact&exclude_repo=ft_server&langs_count=13&theme=dark)]
 
 
 # 42Madrid
