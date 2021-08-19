@@ -27,7 +27,7 @@
 |---	|---	|--- |
 | Libft |[![rcuesta- 42Project Score](https://badge42.herokuapp.com/api/project/rcuesta-/Libft)](https://github.com/rcuesta-/badge42) | C project |
 | Born2BeRoot | [![rcuesta- 42Project Score](https://badge42.herokuapp.com/api/project/rcuesta-/born2beroot)](https://github.com/rcuesta-/badge42) | Virtualization |
-| Get_Next_Line	|  | C project |
+| Get_Next_Line	| [![rcuesta- 42Project Score](https://badge42.herokuapp.com/api/project/rcuesta-/get_next_line)](https://github.com/rcuesta-/badge42) | C project |
 | Printf	|  | C project |
 
 
