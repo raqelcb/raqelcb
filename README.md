@@ -26,7 +26,7 @@
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
 | Libft |[![rcuesta- 42Project Score](https://badge42.herokuapp.com/api/project/rcuesta-/Libft)](https://github.com/rcuesta-/badge42) | C project |
-| Born2BeRoot |  | Network |
+| Born2BeRoot | [![rcuesta- 42Project Score](https://badge42.herokuapp.com/api/project/rcuesta-/born2beroot)](https://github.com/rcuesta-/badge42) | Virtualization |
 | Get_Next_Line	|  | C project |
 | Printf	|  | C project |
 
