@@ -1,15 +1,15 @@
-# Hello World! I'm Raquel [raqelcb] 👋
+# Hello World! I'm Raquel [raqelcb](http://www.rcbdesigner.com) 👋
 
 ### I'm a Graphic Designer and Frontend Developer ✍️💻
 
-- 🎓 I studied Graphic Design at the **IED Madrid** and later they gave me a scholarship to study a Master in Marketing. Then I studied an MBA.
-- 🏊‍ In February 2020 & July 2021 I was a candidate for the **42 Madrid School**, where during that month I made the piscine.
-- 🍏 I'm a **Apple** Certified Support Professional 
+- 🎓 I studied Graphic Design at the [**IED Madrid**](https://iedmadrid.com) and later they gave me a scholarship to study a Master in Marketing. Then I studied an MBA.
+- 🏊‍ In February 2020 & July 2021 I was a candidate for the [**42 Madrid School**](https://www.42madrid.com/en/), where during that month I made the piscine.
+- 🍏 I'm a [**Apple**](https://apple.com) Certified Support Professional 
 
 - 🌱 I'm currently learning **C** at [42Madrid](https://www.42madrid.com/en/)
 - 🧠 I'm interesting in **HTML5**, **CSS3**, **SaSS**, **JavaScript**, **TypeScript**, **React**
 - ⚙️ I'm currently working at my own projects to create my future.
-- 🚀 2021 Goals: learn more.
+- 🚀 2021 Goals: learn more & undertake.
 ---
 ### Languages and Tools
 
