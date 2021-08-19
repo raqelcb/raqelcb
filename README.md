@@ -1,4 +1,4 @@
-# Hello World! I'm Raquel [raqelcb](http://www.rcbdesigner.com) 👋
+# Hello World! I'm Raquel [raqelcb](http://rcbdesigner.com) 👋
 
 ### I'm a Graphic Designer and Frontend Developer ✍️💻
 
