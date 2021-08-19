@@ -1,4 +1,4 @@
-# Hello World! I'm Raquel [raqelcb](http://rcbdesigner.com) 👋
+# Hello World! I'm Raquel [raqelcb](http://rcbdesigner.com) 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=raqelcb&label=Profile%20views&color=fa8333&style=flat" alt="raqelcb" /> </p>
 
 ### I'm a Graphic Designer and Frontend Developer ✍️💻
 
