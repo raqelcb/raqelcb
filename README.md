@@ -14,9 +14,22 @@
 ### Languages and Tools
 
 [![rcuesta- 42 stats](https://badge42.herokuapp.com/api/stats/rcuesta-?privacyEmail=true)](https://www.42madrid.com/en)
+
 ![](https://github-readme-stats.vercel.app/api?username=raqelcb&count_private=true&show_icons=true&theme=dark&hide_title=true)
+
 <!--![Raqelcb's github stats](https://github-readme-stats.vercel.app/api?username=raqelcb&show_icons=true&count_private=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raqelcb&layout=compact&exclude_repo=ft_server&langs_count=15&theme=dark)]
+
+
+# 42Madrid
+
+|   Projects	|  Score	| Type |
+|---	|---	|--- |
+| [Libft |](https://badge42.herokuapp.com/api/project/rcuesta-/Libft)](https://github.com/rcuesta-/badge42) | C project |
+| Born2BeRoot |  | Network |
+| Get_Next_Line	|  | C project |
+| Printf	|  | C project |
+
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
