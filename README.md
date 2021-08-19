@@ -25,7 +25,7 @@
 
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
-| [Libft |](https://badge42.herokuapp.com/api/project/rcuesta-/Libft)](https://github.com/rcuesta-/badge42) | C project |
+| Libft |[](https://badge42.herokuapp.com/api/project/rcuesta-/Libft)](https://github.com/rcuesta-/badge42) | C project |
 | Born2BeRoot |  | Network |
 | Get_Next_Line	|  | C project |
 | Printf	|  | C project |
