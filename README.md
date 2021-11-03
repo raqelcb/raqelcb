@@ -1,4 +1,12 @@
-# Hello World! I'm Raquel [raqelcb](http://rcbdesigner.com) 👋 
+<p align="center">
+  <a href="https://elearning.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg">
+    <img src="images/raqelcb_Cover.png" alt="raqelcb_Cover">
+  </a>
+</p>
+
+<div align="center"> 
+	<h1>Hello World! I'm Raquel <a href="http://rcbdesigner.com">[raqelcb]</a> 👋 
+</div>  
 
 ### I'm a Graphic Designer and Frontend Developer ✍️💻
 
@@ -13,7 +21,9 @@
 ---
 ### Languages and Tools
 
-<div align="center"><img src="https://badge42.herokuapp.com/api/stats/rcuesta-?privacyEmail=true" align="center" /></div>
+<div align="center">
+	<img src="https://badge42.herokuapp.com/api/stats/rcuesta-?privacyEmail=true" align="center" />
+</div>
 <br>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=raqelcb&count_private=true&show_icons=true&theme=dark&hide_title=true) -->
 
@@ -33,4 +43,13 @@
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=raqelcb&label=Profile%20views&color=fa8333&style=flat" alt="raqelcb" /> </p>
+
+<div align="center">
+	<a href="https://github.com/rcbdesigner" target="_blank">
+	<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+	<a href="https://linkedin.com/in/rcndesigner" target="_blank">
+	<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+	<img src="https://komarev.com/ghpvc/?username=raqelcb&label=Profile%20views&color=fa8333&style=flat" alt="raqelcb" />
+</div>
