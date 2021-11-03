@@ -21,7 +21,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raqelcb&layout=compact&exclude_repo=ft_server&langs_count=13&theme=dark"/></div>
 
 
-# 42Madrid
+### 42Madrid
 
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
