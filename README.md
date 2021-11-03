@@ -13,7 +13,7 @@
 ---
 ### Languages and Tools
 
-[![rcuesta- 42 stats](https://badge42.herokuapp.com/api/stats/rcuesta-?privacyEmail=true)](https://www.42madrid.com/en)
+<div align="center"><img src="https://badge42.herokuapp.com/api/stats/rcuesta-?privacyEmail=true align="center" /></div>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=raqelcb&count_private=true&show_icons=true&theme=dark&hide_title=true) -->
 
