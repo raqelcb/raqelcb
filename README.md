@@ -14,15 +14,15 @@
 ### Languages and Tools
 <div align="center">
 [![rcuesta- 42 stats](https://badge42.herokuapp.com/api/stats/rcuesta-?privacyEmail=true)](https://www.42madrid.com/en)
-
+</div>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=raqelcb&count_private=true&show_icons=true&theme=dark&hide_title=true) -->
-
+<div align="center">
 <!--![Raqelcb's github stats](https://github-readme-stats.vercel.app/api?username=raqelcb&show_icons=true&count_private=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raqelcb&layout=compact&exclude_repo=ft_server&langs_count=13&theme=dark)]
 </div>
 
 # 42Madrid
-<div align="center">
+
 |   Projects	|  Score	| Type |
 |---	|---	|--- |
 | Libft |[![rcuesta- 42Project Score](https://badge42.herokuapp.com/api/project/rcuesta-/Libft)](https://github.com/raqelcb) | C library |
@@ -30,7 +30,6 @@
 | Get_Next_Line	| [![rcuesta- 42Project Score](https://badge42.herokuapp.com/api/project/rcuesta-/get_next_line)](https://github.com/raqelcb) | C function |
 | Printf	| [![rcuesta- 42Project Score](https://badge42.herokuapp.com/api/project/rcuesta-/ft_printf)](https://github.com/raqelcb) | C library |
 | Push_Swap	| [![rcuesta- 42Project Score](https://badge42.herokuapp.com/api/project/rcuesta-/push_swap)](https://github.com/raqelcb) | C & Algorithms |
-</div>
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
