@@ -14,11 +14,11 @@
 ### Languages and Tools
 
 <div align="center"><img src="https://badge42.herokuapp.com/api/stats/rcuesta-?privacyEmail=true" align="center" /></div>
-
+<br>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=raqelcb&count_private=true&show_icons=true&theme=dark&hide_title=true) -->
 
 <!--![Raqelcb's github stats](https://github-readme-stats.vercel.app/api?username=raqelcb&show_icons=true&count_private=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raqelcb&layout=compact&exclude_repo=ft_server&langs_count=13&theme=dark)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raqelcb&layout=compact&exclude_repo=ft_server&langs_count=13&theme=dark"/></div>
 
 
 # 42Madrid
