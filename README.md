@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://elearning.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg">
     <img src="images/raqelcb_Cover.png" alt="raqelcb_Cover">
-  </a>
 </p>
 
 <div align="center"> 
