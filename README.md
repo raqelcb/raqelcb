@@ -38,6 +38,8 @@
 | Get_Next_Line	| [![rcuesta- 42Project Score](https://badge42.herokuapp.com/api/project/rcuesta-/get_next_line)](https://github.com/raqelcb) | C function |
 | Printf	| [![rcuesta- 42Project Score](https://badge42.herokuapp.com/api/project/rcuesta-/ft_printf)](https://github.com/raqelcb) | C library |
 | Push_Swap	| [![rcuesta- 42Project Score](https://badge42.herokuapp.com/api/project/rcuesta-/push_swap)](https://github.com/raqelcb) | C & Algorithms |
+| Minitalk	| [![rcuesta- 42Project Score](https://badge42.herokuapp.com/api/project/rcuesta-/minitalk)](https://github.com/raqelcb) | C & Unix |
+| So-long	| [![rcuesta- 42Project Score](https://badge42.herokuapp.com/api/project/rcuesta-/so_long)](https://github.com/raqelcb) | C & Graphics |
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
