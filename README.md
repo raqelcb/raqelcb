@@ -15,7 +15,7 @@
 - 🌱 I'm currently learning **C** at [42Madrid](https://www.42madrid.com/en/)
 - 🧠 I'm interesting in **HTML5**, **CSS3**, **SaSS**, **JavaScript**, **TypeScript**, **React**
 - ⚙️ I'm currently working at my own projects to create my future.
-- 🚀 2021 Goals: learn more & undertake.
+- 🚀 2022 Goals: learn more & undertake.
 ---
 ### Languages and Tools
 
