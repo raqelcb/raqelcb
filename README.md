@@ -39,6 +39,8 @@
 | Exam Rank 02  | [![rcuesta-'s 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2hcosph023109mprtoo9c0w/project/2382128)](https://github.com/raqelcb) | Exam Rank 02
 | Minitalk	| [![rcuesta-'s 42 minitalk Score](https://badge42.vercel.app/api/v2/cl2hcosph023109mprtoo9c0w/project/2450408)](https://github.com/raqelcb) | C & Unix |
 | So-long	| [![rcuesta-'s 42 so_long Score](https://badge42.vercel.app/api/v2/cl2hcosph023109mprtoo9c0w/project/2465519)](https://github.com/raqelcb) | C & Graphics |
+| Philosophers	| (https://github.com/raqelcb) | Unix Logic |
+| Exam Rank 03	| (https://github.com/raqelcb) | Exam Rank 03 |
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
