@@ -19,9 +19,6 @@
 ---
 ### Languages and Tools
 
-<div align="center">
-	<img src="https://badge42.herokuapp.com/api/stats/rcuesta-?privacyEmail=true" align="center" />
-</div>
 <br>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=raqelcb&count_private=true&show_icons=true&theme=dark&hide_title=true) -->
 
@@ -39,7 +36,7 @@
 | Get_Next_Line	| [![rcuesta-'s 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2hcosph023109mprtoo9c0w/project/2345283)](https://github.com/raqelcb) | C function |
 | Printf	| [![rcuesta-'s 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2hcosph023109mprtoo9c0w/project/2350172)](https://github.com/raqelcb) | C library |
 | Push_Swap	| [![rcuesta-'s 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2hcosph023109mprtoo9c0w/project/2382126)](https://github.com/raqelcb) | C & Algorithms |
-| Exam Rank 02  | [![rcuesta-'s 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2hcosph023109mprtoo9c0w/project/2382128)](https://github.com/raqelcb)
+| Exam Rank 02  | [![rcuesta-'s 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2hcosph023109mprtoo9c0w/project/2382128)](https://github.com/raqelcb) | Exam Rank 02
 | Minitalk	| [![rcuesta-'s 42 minitalk Score](https://badge42.vercel.app/api/v2/cl2hcosph023109mprtoo9c0w/project/2450408)](https://github.com/raqelcb) | C & Unix |
 | So-long	| [![rcuesta-'s 42 so_long Score](https://badge42.vercel.app/api/v2/cl2hcosph023109mprtoo9c0w/project/2465519)](https://github.com/raqelcb) | C & Graphics |
 
