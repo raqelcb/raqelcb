@@ -12,8 +12,8 @@
 - 🏊‍ In February 2020 & July 2021 I was a candidate for the [**42 Madrid School**](https://www.42madrid.com/en/), where during that month I made the piscine.
 - 🍏 I'm a [**Apple**](https://apple.com) Certified Support Professional 
 
-- 🌱 I'm currently learning **C** at [42Madrid](https://www.42madrid.com/en/)
-- 🧠 I'm interesting in **HTML5**, **CSS3**, **SaSS**, **JavaScript**, **TypeScript**, **React**
+- 🌱 I'm currently learning **C** & **C++** at [42Madrid](https://www.42madrid.com/en/)
+- 🧠 I'm interesting in **HTML5**, **CSS3**, **SaSS**, **JavaScript**, **TypeScript**, **React**, **Angular**
 - ⚙️ I'm currently working at my own projects to create my future.
 - 🚀 2022 Goals: learn more & undertake.
 ---
