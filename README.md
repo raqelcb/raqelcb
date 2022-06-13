@@ -20,9 +20,9 @@
 ### Languages and Tools
 
 <br>
-<!-- ![](https://github-readme-stats.vercel.app/api?username=raqelcb&count_private=true&show_icons=true&theme=dark&hide_title=true) -->
+[](https://github-readme-stats.vercel.app/api?username=raqelcb&count_private=true&show_icons=true&theme=dark&hide_title=true)
 
-[Raqelcb's github stats](https://github-readme-stats.vercel.app/api?username=raqelcb&show_icons=true&count_private=true)
+<!--[Raqelcb's github stats](https://github-readme-stats.vercel.app/api?username=raqelcb&show_icons=true&count_private=true)-->
 <!--<div align="center"><img src="https://badge42.vercel.app/api/v2/cl2hcosph023109mprtoo9c0w/stats?cursusId=21&coalitionId=66"/></div>-->
 	
 
